@@ -77,7 +77,7 @@ streamlit run app.py
 3.  View the **Writer** synthesize the draft.
 4.  See the final result in the UI.
 ![UI](Screenshots/UI.PNG)
-![SEARCH](Screenshots/Searching.PNG)
+![SEARCH](Screenshots/searching.PNG)
 ![RESEARCH FINDINGS](Screenshots/view_research_findings.PNG)
 ![FINAL RESULT](Screenshots/final_blog_post.PNG)
 
